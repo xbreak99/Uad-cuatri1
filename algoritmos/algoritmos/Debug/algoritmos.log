@@ -1,4 +1,12 @@
-﻿  Render.cpp
-c:\users\axel\documents\projectos visual\uad\primer cuatri\algoritmos\algoritmos\render.cpp(10): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-c:\users\axel\documents\projectos visual\uad\primer cuatri\algoritmos\algoritmos\render.cpp(17): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
-  algoritmos.vcxproj -> C:\Users\Axel\Documents\projectos Visual\UAD\PRIMER CUATRI\algoritmos\Debug\algoritmos.exe
+﻿  main.cpp
+c:\users\axel\documents\projectos visual\uad\primer cuatri\repos\algoritmos\algoritmos\main.cpp(31): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+c:\users\axel\documents\projectos visual\uad\primer cuatri\repos\algoritmos\algoritmos\main.cpp(34): warning C4244: '=': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=int
+          ]
+  algoritmos.vcxproj -> C:\Users\Axel\Documents\projectos Visual\UAD\PRIMER CUATRI\repos\algoritmos\Debug\algoritmos.exe
